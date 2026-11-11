@@ -10,6 +10,7 @@ Dependencies:
 - Rust
 - Cargo
 
+Installation command:
 ```sh
 cargo install --path .
 ```
