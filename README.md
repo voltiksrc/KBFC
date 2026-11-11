@@ -6,6 +6,7 @@ It creates a basic C17 project with a Makefile and some default files, so you do
 
 ## Installation
 
+Dependencies:
 - Rust
 - Cargo
 
