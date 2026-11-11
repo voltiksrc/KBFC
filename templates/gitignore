@@ -1,0 +1,11 @@
+# Build artifacts
+/build/
+*.o
+*.d
+
+# Generated executable
+{{PROJECT_NAME}}
+
+# Editor files
+*.swp
+*.swo

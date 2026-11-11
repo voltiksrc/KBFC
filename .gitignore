@@ -1,0 +1,14 @@
+# Cargo build artifacts
+/target/
+
+# Generated test projects
+/hello/
+/myproject/
+/testproject/
+/kbfc-test/
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
+*.tmp
